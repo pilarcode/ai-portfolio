@@ -1,5 +1,5 @@
 # Proyectos 
-En **2023** he empezado a crear un porfolio sobre proyectos de **IA**.
+Una recopilación de proyectos de **IA** en los que he trabajado.
 
 
 ## [OCR en recibos](https://github.com/pilarcode/demo-receipt-ocr)
