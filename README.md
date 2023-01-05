@@ -26,7 +26,7 @@ Además, se ha realizado un prototipo de API de reconocimiento de acciones. Para
 
 ## [Fashion Image Classification](https://github.com/pilarcode/portfolio/blob/main/FashionMnist_ImageClassification.ipynb)
 
-Experimento de clasificación de imágenes de 10 tipos de prendas de ropa. Para la implementación del modelo se emplea Keras y se diseña una red neuronal simple con unas capas a modo de ejercicio didactico.
+Experimento de clasificación de imágenes de 10 tipos de prendas de ropa. Para la implementación del modelo se emplea Keras y se diseña una red neuronal simple con unas capas a modo de ejercicio didáctico.
 
 - Dataset : https://github.com/zalandoresearch/fashion-mnist 
 - Framework: https://keras.io/
