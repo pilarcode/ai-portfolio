@@ -1,5 +1,7 @@
 # Mi Portfolio
-He empezado a crear un porfolio sobre proyectos de IA o experimentos que haya expezado para seguir aprendiendo. Espero poder ir añadiendo más proyectos en el próximo año. Happy New Year 2023 🥂! 
+He empezado a crear un porfolio sobre proyectos de IA para seguir aprendiendo sobre este campo de conocimiento apasionante. 
+Espero poder ir añadiendo más proyectos en el próximo año. 
+Happy New Year 2023 🥂! 
 
 ## [OCR en recibos](https://github.com/pilarcode/demo-receipt-ocr)
 
