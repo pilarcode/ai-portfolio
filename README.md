@@ -1,5 +1,5 @@
 # Proyectos 
-Una recopilación de proyectos de **IA** en los que he trabajado.
+Una recopilación de algunos proyectos de **IA** en los que he trabajado.
 
 
 ## [OCR en recibos](https://github.com/pilarcode/demo-receipt-ocr)
