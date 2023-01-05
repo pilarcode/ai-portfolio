@@ -23,3 +23,7 @@ Además, se ha realizado un prototipo de API de reconocimiento de acciones. Para
 
 
 ![action recognition example of inference](/images/action_recognition.png)
+
+## [Fashion Image Classification]((https://github.com/pilarcode/portfolio/blob/main/FashionMnist_ImageClassification.ipynb)
+
+Ejercicio de clasificación de imágenes (multi-clase) con Keras con una red neuronal simple.
