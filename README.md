@@ -7,7 +7,7 @@ Una recopilación de algunos proyectos de **IA** en los que he trabajado.
 Experimento para extraer texto de las imágenes de recibos y extraer features como establecimiento, precio, descripción, fecha y total de un dataset de tickets de compra.
 Clasificar las compras nos permite predecir los gastos que realizará un cliente o realizar compras de forma automática.
 
- - [x] Implementar un servicio web para el reconocimiento de texto en imágenes como alternativa al que ya se encuentra disponible en la plataforma de Aws que es de coste.
+ - [x] Implementar un servicio web basico para el reconocimiento de texto en imágenes como approach alternativo al que ya se encuentraría disponible en la plataforma de Aws.
  - [x] Explorar los datasets de facturas o recibos disponibles en el estado del arte para utilizarlo en nuestro caso de uso.
  - [x] Tarea de extracción de datos. Dada una imagen de un recibo o ticket de compra obtener el nombre del establecimiento donde se realizo la compra, fecha de la compra y el listado de los productos (establecimiento, nombre producto, precio del producto) en formato texto.
  - [ ] Tarea de almacenamiento: Guardar la información del fichero txt en una base de datos NoSQL ( por ejemplo: Amazon DynamoDB) para categorizar las compras.
